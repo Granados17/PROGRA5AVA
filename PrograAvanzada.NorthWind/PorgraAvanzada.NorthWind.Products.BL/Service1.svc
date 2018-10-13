@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="PorgraAvanzada.NorthWind.Products.BL.Service1" CodeBehind="Service1.svc.cs" %>
